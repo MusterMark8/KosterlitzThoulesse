@@ -1,0 +1,3 @@
+In the file 'Task_description' you can find the an introduction to the model and the requests that will be implemente ìd in the code.
+In the file 'KT.f90' you can find the code in fortran, output files have been plotted with gnuplot.
+In the file 'Task_answers' you will find a more extensive description of the code and the required analysis of the system.
